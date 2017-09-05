@@ -156,3 +156,4 @@ print(football_1.apply(np.mean))
 
 #numpy matrix/vector multiplication
 #numpy.dot(matrix1,matrix2)
+
