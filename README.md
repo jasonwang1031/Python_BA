@@ -20,5 +20,15 @@ For assignment4, I
   |||||||||
  Multiple Regression	|  1, Diameter at Breast Height (DBH); 2, Tree Height (H); 3, Height to Crown Base (HCB); 4, Dominant Diameter at Breast Height (DD); 5 Site Index (SI), 6,Standard Density (SD); 7, (Quadratic Mean Diameter) QMD; 8, Basal Area (BA)  |  1, Continuous; 2, Continuous; 3, Continuous, 4, Continous; 5, Continous; 6, Continous; 7, Continous; 8, Continous; |  1, Crown Width (CW) | Continuous | None | None  | How to predict crown width of China-fir precisely based on the crown data | None | 0.05 (Feature Selection ) | [Linear Mixed-Effects Models to Describe Individual Tree Crown Width for China-Fir in Fujian Province, Southeast China](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0122257#pone-0122257-t001)|
   |||||||||
- Logistic Regression	| 1, EDF Similarity Scores of First Feature of Tube 4; 2,EDF Similarity Scores of Second Feature of Tube 4; 3, EDF Similarity Scores of Second Feature of Tube 5; 4, EDF Similarity Scores of First Feature of Tube 6; | Continuous |  AML-positive  |  Categorical  |  none | none | How to predict acute myeloid leukemia (AML) from patient samples based on flow cytometry measurements ? | **_H0_** | 0.05 (Feature Selection ) | [Leukemia Prediction Using Sparse Logistic Regression] (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0072932)| 
+ Logistic Regression	| 1, EDF Similarity Scores of First Feature of Tube 4; 2,EDF Similarity Scores of Second Feature of Tube 4; 3, EDF Similarity Scores of Second Feature of Tube 5; 4, EDF Similarity Scores of First Feature of Tube 6; | Continuous |  AML-positive  |  Categorical  |  none | none | How to predict acute myeloid leukemia (AML) from patient samples based on flow cytometry measurements ? | None | 0.05 (Feature Selection ) | [Leukemia Prediction Using Sparse Logistic Regression] (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0072932)| 
   |||||||||
+
+Paper 1 (ANOVA):
+![ANOVA](ANOVA.png)
+
+Paper 2 (Multiple Regression):
+![MULTIPLE REGRESSION](multiple.png)
+
+Paper 3 (Logistic Regression)
+![L1](leukemia2.png)
+![L2](leukemia.png)
